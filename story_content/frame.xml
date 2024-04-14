@@ -1553,11 +1553,13 @@
       <links>
         <slidelink slideid="_player.6CuNU6HuUpl" displaytext="Untitled Scene" expand="true" type="slide">
           <links>
-            <slidelink slideid="_player.6CuNU6HuUpl.6S52zQXtCEV" displaytext="Untitled Slide" expand="false" type="slide" />
-            <slidelink slideid="_player.6CuNU6HuUpl.6rTN6R23xMc" displaytext="Untitled Slide" expand="false" type="slide" />
-            <slidelink slideid="_player.6CuNU6HuUpl.5hRSokGxhao" displaytext="Untitled Slide" expand="false" type="slide" />
-            <slidelink slideid="_player.6CuNU6HuUpl.69jNrUbtdlh" displaytext="Untitled Slide" expand="false" type="slide" />
-            <slidelink slideid="_player.6CuNU6HuUpl.6bSMVKgsjwT" displaytext="Untitled Slide" expand="false" type="slide" />
+            <slidelink slideid="_player.6CuNU6HuUpl.6S52zQXtCEV" displaytext="intro" expand="false" type="slide" />
+            <slidelink slideid="_player.6CuNU6HuUpl.5hRSokGxhao" displaytext="fico" expand="false" type="slide" />
+            <slidelink slideid="_player.6CuNU6HuUpl.6rTN6R23xMc" displaytext="deudas" expand="false" type="slide" />
+            <slidelink slideid="_player.6CuNU6HuUpl.6bSMVKgsjwT" displaytext="colegio" expand="false" type="slide" />
+            <slidelink slideid="_player.6CuNU6HuUpl.5x9mDMu7GlG" displaytext="como se llama" expand="false" type="slide" />
+            <slidelink slideid="_player.6CuNU6HuUpl.69jNrUbtdlh" displaytext="el rey" expand="false" type="slide" />
+            <slidelink slideid="_player.6CuNU6HuUpl.6duqg7QdGgi" displaytext="coaching" expand="false" type="slide" />
           </links>
         </slidelink>
       </links>
